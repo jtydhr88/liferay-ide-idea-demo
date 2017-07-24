@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/liferay-ide-idea-demo.iml" filepath="$PROJECT_DIR$/liferay-ide-idea-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-ide-idea-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-ide-idea-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-workspace-plugin/liferay-workspace-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-workspace-plugin/liferay-workspace-plugin.iml" group="liferay-workspace-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-workspace-plugin/liferay-workspace-plugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-workspace-plugin/liferay-workspace-plugin_main.iml" group="liferay-workspace-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-workspace-plugin/liferay-workspace-plugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-workspace-plugin/liferay-workspace-plugin_test.iml" group="liferay-workspace-plugin" />
     </modules>
   </component>
 </project>

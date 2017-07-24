@@ -6,9 +6,9 @@
   <description>Subplugin with MessageProvider service implementation</description>
   <change-notes/>
   <actions>
-    <action class="org.intellij.examples.dependencies.plugin.HelloAction" id="SayHello" text="Say Hello">
-      <add-to-group group-id="ToolsMenu"/>
-      <add-to-group group-id="WelcomeScreen.QuickStart"/>
-    </action>
   </actions>
+  <extensions defaultExtensionNs="com.intellij">
+    <moduleType id="LIFERAY_WORKSPACE_TYPE" implementationClass="com.liferay.ide.gradle.ui.LiferayWorkspaceType"/>
+    <moduleType id="LIFERAY_MODULE_TYPE" implementationClass="com.liferay.ide.gradle.ui.LiferayModuleType"/>
+  </extensions>
 </idea-plugin>

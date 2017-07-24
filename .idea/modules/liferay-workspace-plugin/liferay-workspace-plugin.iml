@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":liferay-workspace-plugin" external.linked.project.path="$MODULE_DIR$/../../../liferay-workspace-plugin" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="liferay-ide-idea-demo" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../liferay-workspace-plugin">
+      <excludeFolder url="file://$MODULE_DIR$/../../../liferay-workspace-plugin/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../liferay-workspace-plugin/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
