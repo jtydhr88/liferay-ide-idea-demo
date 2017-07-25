@@ -19,6 +19,6 @@ subprojects {
     apply plugin: 'org.jetbrains.intellij'
     
     intellij {
-        version '2017.1.4'
+        version '2017.1.5'
     }
 }
